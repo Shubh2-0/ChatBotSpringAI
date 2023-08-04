@@ -1,8 +1,9 @@
-Absolutely! Let's add some more excitement and enthusiasm to the ChatBotSpringAI README:
-
+<div align="center">
 # ChatBotSpringAI 🤖🌼
+</div>
 
-![Project Logo](link_to_logo_or_image.png)
+
+![Project Logo](images/poster.png)
 
 ## Description 🗣️💬
 
@@ -58,6 +59,50 @@ ChatBotSpringAI is now officially connected to the mind-blowing OpenAI ChatGPT A
 ## Configuration 🔧⚙️
 
 Customize your chatbot experience like a boss! 🎩🎉 Modify the application.properties file to tweak the API endpoint URL, adjust model settings, and fine-tune parameters for the most sensational chat responses. 🌟💬
+
+## Tools Used 🛠️
+<table align="center">
+
+<br>
+    
+  <tr>
+     <td align="center" width="100">
+        <img src="images/java.png" width="48" height="48" alt="javascript" />
+      <br>Java 
+    </td>
+<td align="center" width="100">
+        <img src="images/maven.png" width="48" height="48" alt="Vuejs" />
+      <br>Maven
+    </td>    
+   </tr>
+   <tr>
+<td align="center" width="100">
+        <img src="images/lambok.png" width="48" height="48" alt="Vuejs" />
+      <br>Lombok
+    </td>    
+<td align="center" width="100">
+        <img src="images/eclipse.png" width="48" height="48" alt="Java" />
+      <br>Eclipse
+    </td>
+<td align="center" width="100">
+        <img src="Tools/github.png" width="48" height="48" alt="Vuejs" />
+      <br>GitHub
+    </td> 
+     <td align="center" width="100">
+        <img src="images/restful.png" width="48" height="48" alt="Vuejs" />
+      <br>RESTfull API
+    </td> 
+         <td align="center" width="100">
+        <img src="images/postman.png" width="48" height="48" alt="Vuejs" />
+      <br>Postman
+    </td> 
+          <td align="center" width="100">
+        <img src="images/springb.png" width="48" height="48" alt="Vuejs" />
+      <br>Spring Boot
+    </td> 
+  </tr> 
+
+  </table>
 
 ## Contributing 🤝🎉
 
