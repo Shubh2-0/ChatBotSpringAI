@@ -83,7 +83,7 @@ Customize your chatbot experience like a boss! 🎩🎉 Modify the application.p
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="images/lombok.png" width="48" height="48" alt="Lombok" /><br>
+      <img src="images/lambok.png" width="48" height="48" alt="Lombok" /><br>
       Lombok
     </td>
     <td align="center" width="100">
