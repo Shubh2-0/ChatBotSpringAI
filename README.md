@@ -2,7 +2,7 @@ Absolutely! Let's add some more excitement and enthusiasm to the ChatBotSpringAI
 
 # ChatBotSpringAI 🤖🌼
 
-![Project Logo](link_to_logo_or_image.png)
+![Project Logo](images/poster.png)
 
 ## Description 🗣️💬
 
