@@ -32,10 +32,9 @@ Let's get started on this exciting journey! To run ChatBotSpringAI on your local
 
 Once the ChatBot is up and running, get ready to have a blast! 🎉🎉 Interact with the ChatBot by making HTTP GET requests to the awesome endpoint we've set up. Simply append the text prompt as a query parameter to the URL, like this:
 
-GET http://localhost:8080/mychat?userInput="Query"
+GET http://localhost:8080/mychat?userInput="How to use ChatGPT effectively"
 
-php
-Copy code
+userInput(user query)
 
 You'll receive incredible answers as a response! 🤯💬
 
