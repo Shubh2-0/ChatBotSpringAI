@@ -1,6 +1,7 @@
-Absolutely! Let's add some more excitement and enthusiasm to the ChatBotSpringAI README:
-
+<div align="center">
 # ChatBotSpringAI 🤖🌼
+</div>
+
 
 ![Project Logo](images/poster.png)
 
