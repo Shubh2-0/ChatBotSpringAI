@@ -61,48 +61,46 @@ ChatBotSpringAI is now officially connected to the mind-blowing OpenAI ChatGPT A
 Customize your chatbot experience like a boss! 🎩🎉 Modify the application.properties file to tweak the API endpoint URL, adjust model settings, and fine-tune parameters for the most sensational chat responses. 🌟💬
 
 ## Tools Used 🛠️
+
 <table align="center">
-
-<br>
-    
   <tr>
-     <td align="center" width="100">
-        <img src="images/java.png" width="48" height="48" alt="javascript" />
-      <br>Java 
+    <td align="center" width="100">
+      <img src="images/java.png" width="48" height="48" alt="Java" /><br>
+      Java
     </td>
-<td align="center" width="100">
-        <img src="images/maven.png" width="48" height="48" alt="Vuejs" />
-      <br>Maven
-    </td>    
-   </tr>
-   <tr>
-<td align="center" width="100">
-        <img src="images/lambok.png" width="48" height="48" alt="Vuejs" />
-      <br>Lombok
-    </td>    
-<td align="center" width="100">
-        <img src="images/eclipse.png" width="48" height="48" alt="Java" />
-      <br>Eclipse
+    <td align="center" width="100">
+      <img src="images/maven.png" width="48" height="48" alt="Maven" /><br>
+      Maven
     </td>
-<td align="center" width="100">
-        <img src="Tools/github.png" width="48" height="48" alt="Vuejs" />
-      <br>GitHub
-    </td> 
-     <td align="center" width="100">
-        <img src="images/restful.png" width="48" height="48" alt="Vuejs" />
-      <br>RESTfull API
-    </td> 
-         <td align="center" width="100">
-        <img src="images/postman.png" width="48" height="48" alt="Vuejs" />
-      <br>Postman
-    </td> 
-          <td align="center" width="100">
-        <img src="images/springb.png" width="48" height="48" alt="Vuejs" />
-      <br>Spring Boot
-    </td> 
-  </tr> 
+    <td align="center" width="100">
+      <img src="images/springb.png" width="48" height="48" alt="Spring Boot" /><br>
+      Spring Boot
+    </td>
+    <td align="center" width="100">
+      <img src="images/restful.png" width="48" height="48" alt="RESTful API" /><br>
+      RESTful API
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="images/lombok.png" width="48" height="48" alt="Lombok" /><br>
+      Lombok
+    </td>
+    <td align="center" width="100">
+      <img src="images/sts.png" width="48" height="48" alt="Eclipse" /><br>
+      STS
+    </td>
+    <td align="center" width="100">
+      <img src="images/github.png" width="48" height="48" alt="GitHub" /><br>
+      GitHub
+    </td>
+    <td align="center" width="100">
+      <img src="images/postman.png" width="48" height="48" alt="Postman" /><br>
+      Postman
+    </td>
+  </tr>
+</table>
 
-  </table>
 
 ## Contributing 🤝🎉
 
