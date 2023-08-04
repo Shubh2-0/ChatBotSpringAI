@@ -1,6 +1,6 @@
-<div align="center">
-  <p style="font-size: 50">ChatBotSpringAI 🤖🌼</p>
-</div>
+
+## ChatBotSpringAI 🤖
+
 
 
 ![Project Logo](images/poster.png)
