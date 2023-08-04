@@ -1,5 +1,5 @@
 <div align="center">
-  <p style="font-size: 50px;">ChatBotSpringAI 🤖🌼</p>
+  <p style="font-size: 50">ChatBotSpringAI 🤖🌼</p>
 </div>
 
 
