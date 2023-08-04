@@ -32,12 +32,12 @@ Let's get started on this exciting journey! To run ChatBotSpringAI on your local
 
 Once the ChatBot is up and running, get ready to have a blast! 🎉🎉 Interact with the ChatBot by making HTTP GET requests to the awesome endpoint we've set up. Simply append the text prompt as a query parameter to the URL, like this:
 
-GET http://localhost:8080/mychat?userInput=about ujjain
+GET http://localhost:8080/mychat?userInput="Query"
 
 php
 Copy code
 
-You'll receive incredible answers as the response! 🤯💬
+You'll receive incredible answers as a response! 🤯💬
 
 ## API Integration ⚙️🔌
 
@@ -104,6 +104,6 @@ Feel free to use this enthusiasm-filled README or add even more excitement and p
 
 ## JavaDoc 📚📖
 
-The JavaDoc documentation for the classes in the ChatBotSpringAI project can be found [here](https://your-javadoc-url.com). It provides detailed explanations for classes, methods, fields, and other elements to help developers understand the functionality and usage of various components.
+The JavaDoc documentation for the classes in the ChatBotSpringAI project can be found [here](https://64cd7caa2be4dd65b7df5481--chipper-maamoul-ae7f9b.netlify.app/). It provides detailed explanations for classes, methods, fields, and other elements to help developers understand the functionality and usage of various components.
 
 To generate the JavaDoc documentation, use the `javadoc` command with app
