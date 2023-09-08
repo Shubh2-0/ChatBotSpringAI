@@ -107,3 +107,18 @@ Feel free to use this enthusiasm-filled README or add even more excitement and p
 The JavaDoc documentation for the classes in the ChatBotSpringAI project can be found [here](https://64cd7caa2be4dd65b7df5481--chipper-maamoul-ae7f9b.netlify.app/). It provides detailed explanations for classes, methods, fields, and other elements to help developers understand the functionality and usage of various components.
 
 To generate the JavaDoc documentation, use the `javadoc` command with app
+
+## 📬 Contact
+
+If you want to contact me, you can reach me through below handles.
+
+ <p align="left">
+  <a href="https://www.linkedin.com/in/shubham-bhati-787319213/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" width="40px" alt="linkedin" /></a>&emsp;
+  <a title="shubhambhati226@gmail.com" href="mailto:shubhambhati226@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="40px"   alt="mail-me" /></a>&emsp;
+  <a href="https://wa.me/+916232133187" target="blank"><img align="center" src="https://media2.giphy.com/media/Q8I2fYA773h5wmQQcR/giphy.gif" width="40px"  alt="whatsapp-me" /></a>&emsp;	
+ </p>
+
+<br>
+
+
+
