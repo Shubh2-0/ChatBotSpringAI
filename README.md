@@ -6,7 +6,7 @@
 
 Welcome to ChatBotSpringAI, the ultimate Spring Boot project that brings an intelligent chatbot to life! 🎉🚀 Engage in conversations like never before, powered by the incredible ChatGPT API from OpenAI. Get ready for an adventure full of amazing interactions and brilliant responses! 🌟💬
  
-## Table of Contents 📑📚
+## Table of Contents 📑📚 
 
 - [Installation](#installation)
 - [Usage](#usage)
